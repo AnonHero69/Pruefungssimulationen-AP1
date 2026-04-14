@@ -10,7 +10,7 @@ Diese Sammlung dient der Vorbereitung auf die Zwischenprüfung und soll eine zen
 
 Die Sammlung enthält:
 
-- Originalprüfungen (PDFs, sofern verfügbar)
+- Originalprüfungen
 - Musterlösungen
 
 ---
@@ -19,7 +19,7 @@ Die Sammlung enthält:
 
 Diese Sammlung richtet sich an:
 
-- Auszubildende im Beruf **Fachinformatiker/-in** – sowohl **Anwendungsentwicklung** als auch **Systemintegration**
+- Auszubildende im Beruf **Fachinformatiker/-in**
 - Berufsschüler und Umschüler
 - Alle, die sich auf die **IHK-Zwischenprüfung AP1** vorbereiten möchten
 
